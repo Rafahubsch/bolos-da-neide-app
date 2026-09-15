@@ -1,0 +1,2 @@
+# Dona Neide — Bolos da Neide  Cliente: Dona Neide (Confeitaria Artesanal).  
+Objetivo: Organizar as encomendas de bolos com cadastro simplificado, seleção a partir de um cardápio fixo, destaque para a data e horário de retirada e notificação direta ao cliente quando o bolo estiver pronto.
